@@ -1,0 +1,16 @@
+Creative Commons Attribution-NonCommercial 4.0 International
+
+ProSpecTool is licensed under the Creative Commons Attribution-NonCommercial
+4.0 International License.
+
+You are free to share and adapt the material for non-commercial purposes,
+provided that you give appropriate credit to the authors, provide a link to
+the license, and indicate whether changes were made.
+
+Commercial use is not permitted under this license. To request permission for
+commercial use, contact the copyright holders.
+
+Full license text:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+SPDX-License-Identifier: CC-BY-NC-4.0
